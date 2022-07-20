@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aadhithian L currently studying MSc Decision and Computing Sciences
-- 👀 I’m interested in Computer Vision
+- 👀 I’m interested in Natural Language Processing
 
 <!---
 aadhisankaran/aadhisankaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
