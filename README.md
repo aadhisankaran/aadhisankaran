@@ -1,4 +1,4 @@
-# Hi, I'm Aadhi 👋
+# Hi, I'm Aadhithian  👋
 
 ### Data Scientist | AI & Automation | Financial Analytics
 
